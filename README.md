@@ -18,10 +18,9 @@ Social distancing: We are aware thats its a key method to slow the spread of the
 
 **Reason to Analyze COVID-19 Data**
 
-Policymakers, healthcare institutions, and researchers are interested in data to understand the spread, manage healthcare resources, and devise strategies (like lockdowns) to reduce transmission rates.
-By analyzing trends in infection rates, hospitalizations, and social distancing measures, we can help predict future outbreaks, identify regions that have controlled the virus effectively, and inform decision-making.
-Key Decisions Informed by This Data:
+Policymakers, healthcare institutions, and researchers are interested in data to understand the spread, manage healthcare resources, and devise strategies (like lockdowns) to reduce transmission rates. By analyzing trends in infection rates, hospitalizations, and social distancing measures, we can help predict future outbreaks, identify regions that have controlled the virus effectively, and inform decision-making.
 
+**Key Decisions Informed by This Data:**
 Healthcare resource allocation: Where to send more resources (hospitals, ventilators).
 Policy decisions: Determining when to implement or ease restrictions based on the success of social distancing measures.
 Public communication: Informing the public about infection trends and the importance of social distancing.
