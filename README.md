@@ -22,9 +22,8 @@ Public communication: Informing the public about infection trends and the import
 
 ## Step 2: Data Understanding
 
-**Understanding the Data:**
-1. Loading and inspection of the datasets.
-2. Identifying important variables: cases, deaths, population, hospital resources, and social distancing measures.
+**Understanding the Data:** 
+Loading and inspection of the datasets and identifying important variables: cases, deaths, population, hospital resources, and social distancing measures.
 
 **Verifying Data Quality:**
 Checking for missing values, duplicates, and outliers and handling them.
