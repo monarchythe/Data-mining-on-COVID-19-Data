@@ -31,5 +31,5 @@ Checking for missing values, duplicates, and outliers and handling them.
 **Descriptive Statistics:**
 Analyzing through statistics like mean, median, mode, range, and variance for important variables.
 
-**Visualize Key Attributes:**
+**Visualizing Key Attributes:**
 Explore trends across states and counties thrugh visualizaion methods
