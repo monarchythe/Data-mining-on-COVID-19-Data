@@ -2,6 +2,12 @@
 This project focuses on analyzing COVID-19 data provided by Google Cloud Platform, which includes information on the spread of the virus, demographics, and social distancing efforts in the United States. The goal is to understand trends, assess the effectiveness of social distancing, and predict future developments in various regions.
 We are using **CRISP-DM** model to do our Data Analysis, starting with the Business Understanding as well as  Data Understanding
 
+## Key Objectives:
+- Analyze the trends in different states/counties of the US.
+- Investigate whether social distancing is working.
+- Identify regions performing well in controlling the virus.
+- Predict future developments in regions based on the data from other regions.
+
 ## Step 1: Business Understanding
 This involves defining the problem and understanding the significance of the data for COVID-19. Here's a draft that you can build upon:
 
