@@ -41,7 +41,7 @@ Explore trends across states and counties thrugh visualizaion methods
 
 # Project Report: Data Classification and Modeling
 
-This project report provides a comprehensive overview of the process of building classification models from raw data preparation to deployment. The workflow includes defining the problem, engineering predictive features, training various machine learning models, and evaluating their performance. Below is a summary of the contents:
+This project report provides a comprehensive overview of the process of building classification models from raw data preparation to deployment. The workflow includes defining the problem, engineering predictive features, training various machine learning models, and evaluating their performance. The report is named as **Datamining_project3_Group_9.pdf** Below is a summary of its contents:
 
 ## 1. Data Preparation
 - **Defining the Classes**: The classification problem and its objectives are defined.
