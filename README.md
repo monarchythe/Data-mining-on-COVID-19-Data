@@ -29,7 +29,7 @@ Public communication: Informing the public about infection trends and the import
 
 # Project Report 2: Clustering Analysis and Insights
 
-This project report focuses on clustering analysis to identify patterns and relationships in data related to demographics, economics, and COVID-19 outcomes. Below is an overview of the contents:
+This project report focuses on clustering analysis to identify patterns and relationships in data related to demographics, economics, and COVID-19 outcomes. (**Report file name is Project 2_Group_9_Monarch_Nigam_and_Namratha.pdf**) Below is an overview of the contents:
 
 ## 1. Data Preparation
 - **Objects Used for Clustering**: Selected states and counties are defined for analysis.
