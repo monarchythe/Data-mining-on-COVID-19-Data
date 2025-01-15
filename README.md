@@ -1,4 +1,6 @@
-# Data-mining-on-COVID-19-Data  (work under progress)
+# Data-mining-on-COVID-19-Data  
+# The Whole Project is divided into 3 parts
+
 This project focuses on analyzing COVID-19 data provided by Google Cloud Platform, which includes information on the spread of the virus, demographics, and social distancing efforts in the United States. The goal is to understand trends, assess the effectiveness of social distancing, and predict future developments in various regions.
 We are using **CRISP-DM** model to do our Data Analysis, starting with the Business Understanding as well as  Data Understanding
 
@@ -8,7 +10,7 @@ We are using **CRISP-DM** model to do our Data Analysis, starting with the Busin
 - Identify regions performing well in controlling the virus.
 - Predict future developments in regions based on the data from other regions.
 
-## Step 1: Business Understanding
+## Business Understanding
 This involves defining the problem and understanding the significance of the data for COVID-19. Here's a draft that you can build upon:
 
 **COVID-19 Overview:**
@@ -25,21 +27,41 @@ Healthcare resource allocation: Where to send more resources (hospitals, ventila
 Policy decisions: Determining when to implement or ease restrictions based on the success of social distancing measures.
 Public communication: Informing the public about infection trends and the importance of social distancing.
 
-## Step 2: Data Understanding
+# Project Report 2: Clustering Analysis and Insights
 
-**Understanding the Data:** 
-Loading and inspection of the datasets and identifying important variables: cases, deaths, population, hospital resources, and social distancing measures.
+This project report focuses on clustering analysis to identify patterns and relationships in data related to demographics, economics, and COVID-19 outcomes. Below is an overview of the contents:
 
-**Verifying Data Quality:**
-Checking for missing values, duplicates, and outliers and handling them.
+## 1. Data Preparation
+- **Objects Used for Clustering**: Selected states and counties are defined for analysis.
+- **Features Used for Clustering**: Identification and explanation of the features considered in the clustering process.
 
-**Descriptive Statistics:**
-Analyzing through statistics like mean, median, mode, range, and variance for important variables.
+## 2. Scale of Measurement of the Features
+- **Measures for Similarity/Distance**: Explanation of distance metrics used for clustering (e.g., Euclidean distance).
 
-**Visualizing Key Attributes:**
-Explore trends across states and counties thrugh visualizaion methods
+## 3. Modeling
+- **Cluster One**: Demographic and COVID-19 Impact.
+- **Cluster Two**: Economic Vulnerability.
+- **Cluster Three**: Socioeconomic Hardship and COVID-19 Outcomes.
+- **Cluster Four**: Comprehensive Demographic and Economic Clustering.
 
-# Project Report: Data Classification and Modeling
+## 4. Determining the Suitable Number of Clusters
+- **Elbow Method**: Identification of optimal cluster count based on variance.
+- **Silhouette Method**: Evaluation of cluster quality.
+- **Dunn Index Analysis**: Assessment of compactness and separation of clusters.
+
+## 5. Cluster Evaluation and Validation
+- **Unsupervised Cluster Evaluation**: Internal validation of clustering models.
+- **Supervised Evaluation of Clustering**: Comparison of clusters with labeled data.
+
+## 6. Exceptional Work
+- **Partitioning Around Medoids (PAM)**: Application of PAM clustering to uncover unique patterns.
+- **Gaussian Mixture Model (GMM) Clustering**: Advanced probabilistic clustering approach for nuanced insights.
+
+## 7. Conclusion and Recommendations
+- **Summary of Findings**: Key observations from each cluster.
+- **Public Health Recommendations**: Actionable suggestions based on clustering outcomes.
+
+# Project Report 3 (final report): Data Classification and Modeling
 
 This project report provides a comprehensive overview of the process of building classification models from raw data preparation to deployment. The workflow includes defining the problem, engineering predictive features, training various machine learning models, and evaluating their performance. The report is named as **Datamining_project3_Group_9.pdf** Below is a summary of its contents:
 
