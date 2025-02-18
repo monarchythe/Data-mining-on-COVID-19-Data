@@ -4,8 +4,8 @@ The First Part is mostly Business Undersatanding which is the basis of our Data 
 There is no project report for the first part. 
 #### The coding (.R) files for each project part is as follows :
 - For Part 1 : **Monarch_Nigam_Project_1_Code.R**
-- For Part 2 : 
-- For Part 3 : **KNN_and_Naive_Bays_classification.R** and **randomforest.R**
+- For Part 2 : **Kmeans_PAM_GMM_and_ClusterEvaluation.R** and **Hierarchical_Clustering.R**
+- For Part 3 : **KNN_and_Naive_Bays_classification.R** and **Tree_randomForest_logRegression.R**
 
 This project focuses on analyzing COVID-19 data provided by Google Cloud Platform, which includes information on the spread of the virus, demographics, and social distancing efforts in the United States. The goal is to understand trends, assess the effectiveness of social distancing, and predict future developments in various regions.
 We are using **CRISP-DM** model to do our Data Analysis, starting with the Business Understanding as well as  Data Understanding
