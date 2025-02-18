@@ -1,5 +1,11 @@
 # Data-mining-on-COVID-19-Data  
 # The Whole Project is divided into 3 parts
+The First Part is mostly Business Undersatanding which is the basis of our Data Analysis and is carried forward to the Project report part 2 and part 3. 
+There is no project report for the first part. 
+#### The coding (.R) files for each project part is as follows :
+- For Part 1 : **Monarch_Nigam_Project_1_Code.R**
+- For Part 2 : 
+- For Part 3 : **KNN_and_Naive_Bays_classification.R** and **randomforest.R**
 
 This project focuses on analyzing COVID-19 data provided by Google Cloud Platform, which includes information on the spread of the virus, demographics, and social distancing efforts in the United States. The goal is to understand trends, assess the effectiveness of social distancing, and predict future developments in various regions.
 We are using **CRISP-DM** model to do our Data Analysis, starting with the Business Understanding as well as  Data Understanding
@@ -29,7 +35,7 @@ Public communication: Informing the public about infection trends and the import
 
 # Project Report 2: Clustering Analysis and Insights
 
-This project report focuses on clustering analysis to identify patterns and relationships in data related to demographics, economics, and COVID-19 outcomes. (**Report file name is Project 2_Group_9_Monarch_Nigam_and_Namratha.pdf**) Below is an overview of the contents:
+This project report focuses on clustering analysis to identify patterns and relationships in data related to demographics, economics, and COVID-19 outcomes. (**Report file name is Project_Report_Part_2.pdf**) Below is an overview of the contents:
 
 ## 1. Data Preparation
 - **Objects Used for Clustering**: Selected states and counties are defined for analysis.
@@ -63,7 +69,7 @@ This project report focuses on clustering analysis to identify patterns and rela
 
 # Project Report 3 (final report): Data Classification and Modeling
 
-This project report provides a comprehensive overview of the process of building classification models from raw data preparation to deployment. The workflow includes defining the problem, engineering predictive features, training various machine learning models, and evaluating their performance. The report is named as **Datamining_project3_Group_9.pdf** Below is a summary of its contents:
+This project report provides a comprehensive overview of the process of building classification models from raw data preparation to deployment. The workflow includes defining the problem, engineering predictive features, training various machine learning models, and evaluating their performance. The report is named as **Project_Report_Part_3.pdf** Below is a summary of its contents:
 
 ## 1. Data Preparation
 - **Defining the Classes**: The classification problem and its objectives are defined.
